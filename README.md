@@ -75,7 +75,9 @@ The application evaluates model performance using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/classification-models.git
+git clone
+https://mlassignment2-hud2hvupbpjcubqthdiefw.streamlit.app/
+
 ```
 
 Navigate to the project directory:
